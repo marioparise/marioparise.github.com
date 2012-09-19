@@ -46,7 +46,7 @@ ul#shell {
 	ul#shell li,
 	ul#shell p {
 		margin: 1em 0;
-		text-shadow: 0 0 3px #333;
+		text-shadow: 0 0 5px #333;
 	}
 	
 	ul#shell li.history {
