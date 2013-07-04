@@ -1,7 +1,7 @@
 html {
 	background: #333;
 	color: #eee;
-	font-family: 'PT Mono', mono;
+	font-family: Helvetica, Arial, sans-serif;
 	font-size: 1em;
 }
 
@@ -19,3 +19,7 @@ div.container {
 	margin: 0 auto;
 	text-align: center;
 }
+
+img { 
+	border-radius: 50%;
+	}
